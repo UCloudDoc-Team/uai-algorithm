@@ -1,5 +1,6 @@
-# 概览
+<div class="sidebar_title icon__alg-platform"> 算法平台 UAI-Algorithm</div>
 
+* [概览](/uai-alg-platform/README)
 * [产品简介](/uai-alg-platform/introduction)
 * [接入指南](/uai-alg-platform/access/overview)
     * [接入流程](/uai-alg-platform/access/prepare)
@@ -10,4 +11,18 @@
         * [UCloud口罩检测](/uai-alg-platform/api/alg-platform/ucloud-mask)
         * [图普内容审核](/uai-alg-platform/api/alg-platform/tupu-censor)
 * [Python SDK手册](/uai-alg-platform/pysdk)
-* [FAQ](/uai-alg-platform/faq)   
+* [FAQ](/uai-alg-platform/faq)
+
+
+
+
+
+
+
+
+
+​    
+
+
+​    
+​        
