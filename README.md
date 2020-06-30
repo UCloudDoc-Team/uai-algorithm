@@ -1,6 +1,6 @@
 # 概览
 
-* [产品简介](/uai-alg-platform/introduction)
+* [产品简介.](/uai-alg-platform/introduction)
 * [接入指南](/uai-alg-platform/access/overview)
     * [接入流程](/uai-alg-platform/access/prepare)
     * [账户公私钥获取](/uai-alg-platform/access/key)
