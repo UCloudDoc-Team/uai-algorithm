@@ -12,5 +12,5 @@
 
   * 进入UCloud API[产品管理页面](https://console.ucloud.cn/uapi/apikey)
   * 选择API密钥选项卡，点击“显示”，获取用户当前用户的公私钥信息。
-	![](ai/uai-alg-paltform/images/access/key_1.png)
+	![](/uai-algorithm/images/access/key_1.png)
 
