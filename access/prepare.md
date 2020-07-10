@@ -34,7 +34,7 @@
  算法平台服务提供两种调用方式，具体信息如下：
 
  - [Restful API](uai-algorithm/api)
- - [Python SDK](uai-algorithm/pysdk/alg-platform)
+ - [Python SDK](uai-algorithm/pysdk)
 
  
 
