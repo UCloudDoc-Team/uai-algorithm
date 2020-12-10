@@ -1,4 +1,3 @@
-<div class="sidebar_title icon__alg-platform"> 算法平台 UAI-Algorithm</div>
 
 * [概览](/uai-algorithm/README)
 * [产品简介](/uai-algorithm/introduction)
@@ -13,16 +12,4 @@
 * [Python SDK手册](/uai-algorithm/pysdk)
 * [FAQ](/uai-algorithm/faq)
 
-
-
-
-
-
-
-
-
-​    
-
-
-​    
-​        
+       
